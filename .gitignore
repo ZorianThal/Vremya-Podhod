@@ -1,0 +1,15 @@
+# Build artifacts
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.zip
+
+# IDE & OS
+.DS_Store
+Thumbs.db
+.vs/
+.idea/
+*.suo
+*.user
